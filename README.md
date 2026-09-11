@@ -22,7 +22,6 @@
 - [Medium](https://github.com/mushoku-note-log/SNS-Medium)
 - [X（旧Twitter）](https://github.com/mushoku-note-log/SNS-X)
 - [Instagram](https://github.com/mushoku-note-log/SNS-Instagram)
-- [pixiv](https://github.com/mushoku-note-log/SNS-pixiv)
 - [ちちぷい（chichi-pui）](https://github.com/mushoku-note-log/SNS-chichipui)
 - [Painter AI](https://github.com/mushoku-note-log/SNS-PainterAI)
 - [SeaArt](https://github.com/mushoku-note-log/SNS-SeaArt)
